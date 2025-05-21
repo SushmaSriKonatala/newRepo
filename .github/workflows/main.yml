@@ -3,5 +3,5 @@ on:
 
 jobs:
   execute:
-    uses: PSJH-dev/Devops_test/.github/workflows/main.yml@main
+    uses: SushmaSriKonatala/Devops_test/.github/workflows/main.yml@main
     secrets: inherit
