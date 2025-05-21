@@ -1,0 +1,7 @@
+on:
+  workflow_dispatch:
+
+jobs:
+  execute:
+    uses: PSJH-dev/Devops_test/.github/workflows/main.yml@main
+    secrets: inherit
